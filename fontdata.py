@@ -1,0 +1,11 @@
+import pygame,os
+pygame.init()
+dfont = pygame.font.Font("fontfiles\8bit.ttf", 9)
+font = pygame.font.Font("fontfiles\sfont.ttf", 20)
+fonts16 = pygame.font.Font("fontfiles\sfont.ttf", 16)
+fonts45 = pygame.font.Font("fontfiles\sfont.ttf", 45)
+fonts36 = pygame.font.Font("fontfiles\sfont.ttf", 36)
+fonts81 = pygame.font.Font("fontfiles\sfont.ttf", 81)
+ltut_txt = pygame.font.SysFont("Arial",16)
+bit = pygame.font.Font("fontfiles\sfont.ttf",27)
+scr = pygame.font.Font("fontfiles\m04.ttf",48)
